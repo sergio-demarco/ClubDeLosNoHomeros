@@ -16,8 +16,8 @@ public class Bar {
 		return clientes;
 	}
 
-	public void agregarClientes(Clientes clientes) {
-		clientes.add(clientes);
+	public void agregarClientes(Clientes cliente) {
+		clientes.add(cliente);
 	}
 
 	public Integer contarClientes() {
